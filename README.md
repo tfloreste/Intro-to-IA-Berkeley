@@ -6,5 +6,5 @@ The projects' descriptions can be found in the [projects section](http://ai.berk
 
 Some projects are still not complete and therefore don't pass all tests.
 
-Complete Projects: p0, p3 and p5
+Complete Projects: p0, p3 and p5  
 Incomplete Projects: p1, p2 and p4
